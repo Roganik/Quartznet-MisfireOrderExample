@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartznet-MisfireOrderExample-Net6", "Quartznet-MisfireOrderExample-Net6\Quartznet-MisfireOrderExample-Net6.csproj", "{9B304FFA-4B42-4686-9F5A-CC92DC96D8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartznet-MisfireOrderExample-lib", "Quartznet-MisfireOrderExample-lib\Quartznet-MisfireOrderExample-lib.csproj", "{13C8ADDA-BBBF-4ADA-A971-884F33814419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartznet-MisfireOrderExample-Net48", "Quartznet-MisfireOrderExample-Net48\Quartznet-MisfireOrderExample-Net48.csproj", "{5EBEFD53-0E3A-4A63-986D-633E8E719E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B304FFA-4B42-4686-9F5A-CC92DC96D8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B304FFA-4B42-4686-9F5A-CC92DC96D8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B304FFA-4B42-4686-9F5A-CC92DC96D8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B304FFA-4B42-4686-9F5A-CC92DC96D8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C8ADDA-BBBF-4ADA-A971-884F33814419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C8ADDA-BBBF-4ADA-A971-884F33814419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C8ADDA-BBBF-4ADA-A971-884F33814419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C8ADDA-BBBF-4ADA-A971-884F33814419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBEFD53-0E3A-4A63-986D-633E8E719E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBEFD53-0E3A-4A63-986D-633E8E719E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBEFD53-0E3A-4A63-986D-633E8E719E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBEFD53-0E3A-4A63-986D-633E8E719E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
